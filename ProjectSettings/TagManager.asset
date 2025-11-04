@@ -62,3 +62,6 @@ TagManager:
   - name: Window
     uniqueID: 657571523
     locked: 0
+  - name: Item
+    uniqueID: 3449877355
+    locked: 0

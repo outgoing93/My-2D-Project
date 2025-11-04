@@ -3,15 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\2D Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\item\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2d project\\assets\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2d project\\assets\\scripts\\item\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\item\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\doorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\item\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,20 +31,16 @@
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\player\\playerinteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player\\playerinteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\PlayerInteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerInteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\manager\\maptransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\ui\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ingameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\titleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\ui\\settingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\player\\tpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\tpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|C:\\Users\\USER\\Desktop\\2D Project\\assets\\scripts\\player\\flashlightcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0234739E-46F0-BC40-E736-2B55143FFF1E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\flashlightcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,57 +86,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\Item.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T02:30:22.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ItemPickup.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\ItemPickup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemPickup.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\ItemPickup.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\ItemPickup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T09:03:44.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T09:03:44.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Inventory\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory\\PlayerInventory.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Inventory\\PlayerInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inventory\\PlayerInventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T08:54:50.036Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TitleUI.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\TitleUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TitleUI.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\TitleUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\TitleUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T02:25:31.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\UIManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T02:10:59.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AudioManager.cs",
@@ -148,44 +135,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T02:21:34.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DoorController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\DoorController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\DoorController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Item\\DoorController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\DoorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T04:14:03.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T04:14:03.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:10:59.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteraction.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\PlayerInteraction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInteraction.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T06:04:26.318Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:21:34.112Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "TitleUI.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\TitleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TitleUI.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\TitleUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TitleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:25:31.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MapTransition.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Manager\\MapTransition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\MapTransition.cs",
@@ -197,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SettingUI.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\SettingUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SettingUI.cs",
@@ -209,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "InGameUI.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\UI\\InGameUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\InGameUI.cs",
@@ -221,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "PlayerInteration.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\PlayerInteration.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInteration.cs",
@@ -233,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "InteractableObject.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Event\\InteractableObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Event\\InteractableObject.cs",
@@ -258,18 +268,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TPSCamera.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\TPSCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\TPSCamera.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\TPSCamera.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\TPSCamera.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T04:26:04.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "PlayerControl.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2D Project\\Assets\\Scripts\\Player\\PlayerControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControl.cs",
